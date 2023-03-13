@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Chongho 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chongho-pyo&show_icons=true&theme=vue)
 
