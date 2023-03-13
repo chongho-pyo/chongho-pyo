@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome&animation=fadeIn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=Welcome&animation=fadeIn&fontSize=90&desc=This%20is%20Chongho\'s%20GitHub&descSize=25&descAlignY=67&descAlign=55)
 
 ### Hi! I'm Chongho 👋
 
